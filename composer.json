@@ -1,0 +1,11 @@
+{
+    "name": "nicols/moodletravisconfig",
+    "description": "Travis Configuration files for Moodle",
+    "authors": [
+        {
+            "name": "Andrew Nicols",
+            "email": "andrew@nicols.co.uk"
+        }
+    ],
+    "require": {}
+}
