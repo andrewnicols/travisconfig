@@ -1,6 +1,7 @@
 {
     "name": "andrewnicols/moodletravisconfig",
     "description": "Travis Configuration files for Moodle",
+    "version": "2015091800",
     "authors": [
         {
             "name": "Andrew Nicols",
